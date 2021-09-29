@@ -1,2 +1,1 @@
-# redis-java
-Redis usage Java enabled
+# simple-redis-java application with Spring-Boot
